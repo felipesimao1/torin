@@ -1,7 +1,7 @@
 import os
 import json
 
-if os. path.exists("env.py"):
+if os.path.exists("env.py"):
     import env
 
 
